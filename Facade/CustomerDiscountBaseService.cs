@@ -1,4 +1,4 @@
-﻿namespace FacadePattern;
+﻿namespace Facade;
 
 public class CustomerDiscountBaseService
 {

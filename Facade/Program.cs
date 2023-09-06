@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using FacadePattern;
+using Facade;
 
 Console.Title = "Facade Pattern";
 

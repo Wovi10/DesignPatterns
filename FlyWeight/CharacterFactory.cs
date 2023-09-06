@@ -25,4 +25,9 @@ public class CharacterFactory
                 return null;
         }
     }
+
+    public ICharacter CreateParagraph(List<ICharacter> characters, int location)
+    {
+        return new Paragraph(characters, location);
+    }
 }
